@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything that is within my knowledge domain.
 - 📫 How to reach me: ... [LinkedIn profile - ](https://www.linkedin.com/in/sramana-routh-2456181b6)
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... half finished.
+- ⚡ Fun fact: ... half finished
 -->
