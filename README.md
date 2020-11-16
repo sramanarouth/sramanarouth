@@ -1,4 +1,4 @@
-### Hi there. I am Sramana, currently a student of University Of Kalyani. 
+### Hi there. I am Sramana, currently a student of University Of Kalyani. :smile:
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn profile - ](https://www.linkedin.com/in/sramana-routh-2456181b6)
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... half finished
--->
