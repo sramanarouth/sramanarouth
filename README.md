@@ -2,7 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Data Science and Machine Learning Projects. Currently pursuing Msc. in Statistics(2nd year)
+- 🔭 I’m currently working on ... 1. Data Science
+                                   2. Machine Learning 
+                                       * Projects. 
+                                   3. Currently pursuing Msc. in Statistics (2nd year)
 - 🌱 I’m currently learning ... Statistics Honours(Msc. 2nd year)
 - 👯 I’m looking to collaborate on ... Data Science and Machine Learning
 - 🤔 I’m looking for help with ... Deep Learning
