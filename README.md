@@ -1,7 +1,4 @@
-### Hi there. I am Sramana, currently a student of University Of Kalyani. 👋
-
-<!--
-**sramanarouth/sramanarouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there. I am Sramana, currently a student of University Of Kalyani. 
 
 Here are some ideas to get you started:
 
